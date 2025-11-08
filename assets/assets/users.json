@@ -1,0 +1,20 @@
+[
+    {   
+        "role": "admin",
+        "fullname": "Ilenia Castellana",
+        "email": "admin@mail.com",
+        "password": "ciao"
+    },
+    {   
+        "role": "staff",
+        "fullname": "Ilenia Castellana",
+        "email": "staff@mail.com",
+        "password": "ciao"
+    },
+    {
+        "role": "client",
+        "fullname": "Ilenia Castellana",
+        "email": "client@mail.com",
+        "password": "ciao"
+    }
+]
