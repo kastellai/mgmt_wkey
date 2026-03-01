@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "e720b6918c76cee66613e2826283d09a",
+const RESOURCES = {"flutter_bootstrap.js": "795c534624ebe47d7b5d03e0b8cdea68",
 "version.json": "9f9c34dcc25b571ea0c75552694df2ee",
 "index.html": "f79c039e0dee5631529a98490eaf5534",
 "/": "f79c039e0dee5631529a98490eaf5534",
-"main.dart.js": "6818807296aa0effadf83352a90c82ee",
+"main.dart.js": "94214ef2520b2dbe38838c923549d3df",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -23,7 +23,7 @@ const RESOURCES = {"flutter_bootstrap.js": "e720b6918c76cee66613e2826283d09a",
 "assets/packages/youtube_player_iframe/assets/player.html": "663ba81294a9f52b1afe96815bb6ecf9",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "de32f11532ebba3a6fcba86996bcff94",
-"assets/fonts/MaterialIcons-Regular.otf": "c287dc5782e11f9dabdf44eff921b98a",
+"assets/fonts/MaterialIcons-Regular.otf": "cac5280d718fe2d4a0047186944fa5bc",
 "assets/assets/images/logo_wellnesskey_1152.png": "2d7c9ea8efdccb5bc414828713a69d4f",
 "assets/assets/images/logo_wellnesskey.png": "caf20124c032141b9ef2386378178532",
 "assets/assets/users.json": "952312a6ff2e8402b560b7202c8b1d13",
