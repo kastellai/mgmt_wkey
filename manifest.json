@@ -3,7 +3,7 @@
     "short_name": "wellnesskey",
     "start_url": ".",
     "display": "standalone",
-    "theme_color": "#464646",
+
     "description": "The wellnesskey Mgmt",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
