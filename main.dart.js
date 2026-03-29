@@ -33905,9 +33905,11 @@ adc:function adc(a,b){var _=this
 _.d=a
 _.e=b
 _.c=_.a=null},
-a3G:function a3G(a,b,c){this.c=a
-this.d=b
-this.a=c},
+a3G:function a3G(a,b,c,d){var _=this
+_.c=a
+_.d=b
+_.e=c
+_.a=d},
 aFQ:function aFQ(a,b){this.a=a
 this.b=b},
 wn:function wn(a){this.a=a},
@@ -117368,11 +117370,12 @@ s.a2$=0
 s=this.e
 s.a7$=r
 s.a2$=0},
-G(a){var s=null,r=A.k0(B.k,0.2),q=A.cU(16),p=this.e,o=this.d
-return A.b_(A.b9(s,A.fa(new A.a1(B.tn,A.b2(A.b([new A.a1(B.l0,A.b3j(new A.pD("assets/images/logo_wellnesskey.png")),s),A.a7("Imposta la tua password",s,s,s,s,A.aa(s,s,B.dB,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),new A.ao(s,24,s,s),new A.qg("inserisci password","Inserisci password",p,!0,s),new A.a1(B.Zh,new A.qg("ripeti password","Ripeti password",o,!0,s),s),new A.a3G(o,p,s),new A.ao(s,4,s,s)],t.p),B.j,B.m,B.i,0),s),s,B.n,1,s,s,s),B.u,s,s,new A.cC(s,s,r,q,s,s,B.aw),s,380,s,s,s,s,s,350),s,s)}}
+G(a){var s=null,r=A.k0(B.k,0.2),q=A.cU(16),p=A.b3j(new A.pD("assets/images/logo_wellnesskey.png")),o=A.a7("Imposta la tua password",s,s,s,s,A.aa(s,s,B.dB,s,s,s,s,s,s,s,s,20,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),n=this.e,m=this.d,l=n.a.a.length!==0&&m.a.a.length!==0
+return A.b_(A.b9(s,A.fa(new A.a1(B.tn,A.b2(A.b([new A.a1(B.l0,p,s),o,new A.ao(s,24,s,s),new A.qg("inserisci password","Inserisci password",n,!0,s),new A.a1(B.Zh,new A.qg("ripeti password","Ripeti password",m,!0,s),s),new A.a3G(m,n,l,s),new A.ao(s,4,s,s)],t.p),B.j,B.m,B.i,0),s),s,B.n,1,s,s,s),B.u,s,s,new A.cC(s,s,r,q,s,s,B.aw),s,380,s,s,s,s,s,350),s,s)}}
 A.a3G.prototype={
-G(a){var s=null,r=this.d.a.a.length!==0&&this.c.a.a.length!==0,q=!r?A.fq(s,s,s,new A.ax(B.cL,t.C),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax(new A.aI(B.a7,1,B.x,-1),t.Is),s,s,s,s,s):s,p=r?new A.aFQ(this,a):s
-return A.ua(A.a7("Imposta Password",s,s,s,s,s,s,s,s),p,q)}}
+G(a){var s=null,r=this.e,q=!r?A.fq(s,s,s,new A.ax(B.cL,t.C),s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.ax(new A.aI(B.a7,1,B.x,-1),t.Is),s,s,s,s,s):s
+r=r?new A.aFQ(this,a):s
+return A.ua(A.a7("Imposta Password",s,s,s,s,s,s,s,s),r,q)}}
 A.aFQ.prototype={
 $0(){var s=this.a,r=this.b,q=s.d
 if(q.a.a===s.c.a.a)A.bX(r,t.w1).u(0,new A.vs(q.a.a))
