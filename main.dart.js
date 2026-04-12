@@ -117255,7 +117255,7 @@ return A.KC(q,q,q,B.bX,q,q,!0,q,A.cV(A.b([n,s,A.cV(q,q,A.a8(q,q,q,q,q,q,q,q,q,q,
 $S:843}
 A.aty.prototype={
 $5$emojiPrefix$emojiSuffix$imageId$label$number(a,b,c,d,e){var s=null,r=A.aX(this.a.$4$emojiPrefix$emojiSuffix$label$number(a,b,d,e),s,s),q=A.cK(46)
-return new A.Z(B.to,A.aW(A.b([new A.Z(B.b1,new A.ak(250,s,new A.Z(B.b1,r,s),s),s),A.eY(new A.qi(A.bb8(s,s,new A.Gw("assets/how_to/"+c+".png",1.5,s,s)),s,s,s,s,s),B.J,s,s,s,s,new A.c4(q,B.w))],t.p),B.i,B.l,B.h,0),s)},
+return new A.Z(B.to,A.aW(A.b([new A.Z(B.b1,new A.ak(250,s,new A.Z(B.b1,r,s),s),s),A.eY(new A.qi(A.bb8(s,s,new A.Gw("assets/how_to/"+c+".png",1.5,s,s)),s,s,s,s,s),s,s,s,s,s,new A.c4(q,B.w))],t.p),B.i,B.l,B.h,0),s)},
 $S:844}
 A.qn.prototype={
 a3(){return new A.abV()}}
